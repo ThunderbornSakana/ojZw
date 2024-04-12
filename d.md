@@ -1,4 +1,4 @@
-The updated version of Table 3 is the **updateTabl3.png** in this repo. In this table, the asterisk symbol (*) is used to denote instances where the top-performing model demonstrates statistically significant superiority over the second-best model on a particular metric. This statistical significance is determined at the 0.05 significance level.
+The updated version of Table 3 is the **updateTable3.png** in this repo. In this table, the asterisk symbol (*) is used to denote instances where the top-performing model demonstrates statistically significant superiority over the second-best model on a particular metric. This statistical significance is determined at the 0.05 significance level.
 
 Additionally, for a more detailed understanding, the specific p-values associated with the nine columns in Table 3 are provided in the table below.
 
